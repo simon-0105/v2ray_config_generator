@@ -26,8 +26,8 @@ import pandas as pd
 from urllib.parse import urlparse, unquote
 
 # --- 默认配置常量 ---
-DEFAULT_SOCKS_PORT = 50001
-DEFAULT_HTTP_PORT = 51001
+DEFAULT_SOCKS_PORT = 40001
+DEFAULT_HTTP_PORT = 41001
 DEFAULT_OUT_SERVER_INDEX = 29
 SERVER_LIST_PATH = "./server_list"
 CONFIG_PATH = "./config"
